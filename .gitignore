@@ -6,3 +6,6 @@ build/
 !.env.example
 dist/
 *.local
+
+# Large video files — host these on CDN separately
+static/video/
